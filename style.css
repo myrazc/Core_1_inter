@@ -3,6 +3,9 @@ body {
   background-color: rgb(168, 220, 255);
   min-height: 100vh;
 }
+h1{
+  font-size: 90px;
+}
   p{
     font-size:70px;
 
